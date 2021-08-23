@@ -11,12 +11,12 @@ Recién egresado de la carrera Ingeniería en Sistemas Computacionales, me gusta
 
 - 🔭 Actualmente estoy resolviendo los laboratorios **Web Security de Portswigger**.
 - 🌱 Estoy iniciando en los **CTF's de Hack The Box**.
-- 💬 Preguntame sobre **Python, Ciberseguridad y Hacking web**.
+- 💬 Preguntame sobre **Ciberseguridad y Hacking web**.
 - 📫 Como contactarme: Por Twitter [@_c0wb0y_](https://twitter.com/_c0wb0y_) o por correo aldo.moreno.leon@protonmail.com
 
-## Estoy llevando a cabo una formación gratuita en:
+[//]: <> (## Estoy llevando a cabo una formación gratuita en:)
 
-🔴 CyberWall Academy impartido por la Universidad de Salamanca y la Policía Nacional de España.
+[//]: <> (🔴 CyberWall Academy impartido por la Universidad de Salamanca y la Policía Nacional de España.)
 
 ## Certificaciones por hacer:
 
