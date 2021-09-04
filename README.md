@@ -14,9 +14,11 @@ Recién egresado de la carrera Ingeniería en Sistemas Computacionales, me gusta
 - 💬 Preguntame sobre **Ciberseguridad y Hacking web**.
 - 📫 Como contactarme: Por Twitter [@_c0wb0y_](https://twitter.com/_c0wb0y_) o por correo aldo.moreno.leon@protonmail.com
 
-[//]: <> (## Estoy llevando a cabo una formación gratuita en:)
+[//]: <> (Así se ponen los comentarios)
 
-[//]: <> (🔴 CyberWall Academy impartido por la Universidad de Salamanca y la Policía Nacional de España.)
+## Estoy llevando a cabo un curso formativo para la certificación PNPT:
+
+🔴 Practical Ethical Hacking impartido por TCM Security, Inc.
 
 ## Certificaciones por hacer:
 
