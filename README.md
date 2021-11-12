@@ -10,9 +10,8 @@ Soy un joven apasionado por la ciberseguridad, especialmente por la seguridad of
 Recién egresado de la carrera Ingeniería en Sistemas Computacionales, me gusta leer mucho y estar aprendiendo cosas nuevas.
 
 - 🔭 Actualmente estoy resolviendo los laboratorios **Web Security de Portswigger**.
-- 🌱 Estoy iniciando en los **CTF's de Hack The Box**.
-- 💬 Preguntame sobre **Ciberseguridad y Hacking web**.
-- 📫 Como contactarme: Por Twitter [@aldo_moreno_l](https://twitter.com/_C0wb0y_) o por correo aldo.moreno.leon@protonmail.com
+- 💬 Pregúntame sobre **Ciberseguridad y Hacking web**.
+- 📫 Como contactarme: Por Twitter [@_C0wb0y_](https://twitter.com/_C0wb0y_) o por correo aldo.moreno.leon@protonmail.com
 
 [//]: <> (Así se ponen los comentarios)
 
