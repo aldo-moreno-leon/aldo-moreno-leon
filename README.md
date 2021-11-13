@@ -7,7 +7,7 @@
 
 Soy un joven apasionado por la ciberseguridad, especialmente por la seguridad ofensiva.
 
-Recién egresado de la carrera Ingeniería en Sistemas Computacionales, me gusta leer mucho y estar aprendiendo cosas nuevas.
+Egresado de la carrera Ingeniería en Sistemas Computacionales, me gusta leer mucho y estar aprendiendo cosas nuevas.
 
 - 🔭 Actualmente estoy resolviendo los laboratorios **Web Security de Portswigger**.
 - 💬 Pregúntame sobre **Ciberseguridad y Hacking web**.
