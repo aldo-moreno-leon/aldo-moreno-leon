@@ -5,17 +5,19 @@
 
 ## ¿Quién soy? 🤔
 
-Soy un joven apasionado por la ciberseguridad, especialmente por la seguridad ofensiva.
+Soy un joven apasionado por la ciberseguridad, especialmente por la seguridad ofensiva. También le hago al QA testing en el cual me desempeño de manera profesional actualmente.
 
 Egresado de la carrera Ingeniería en Sistemas Computacionales, me gusta leer mucho y estar aprendiendo cosas nuevas.
 
 - 🔭 Actualmente estoy resolviendo los laboratorios **Web Security de Portswigger**.
-- 💬 Pregúntame sobre **Ciberseguridad y Hacking web**.
+- 💬 Pregúntame sobre **QA testing y Hacking**.
 - 📫 Como contactarme: Por Twitter [@_C0wb0y_](https://twitter.com/_C0wb0y_) o por correo aldo.moreno.leon@protonmail.com
 
 [//]: <> (Así se ponen los comentarios)
 
-## Estoy llevando a cabo un curso formativo para la certificación PNPT:
+## Me estoy preparando para obtener las certificaciones ISTQB y PNPT, con los siguientes cursos formativos:
+
+🔴 Sesiones formativas para el examen de ISTQB® Tester Foundation Level impartido por QA Minds Lab
 
 🔴 Practical Ethical Hacking impartido por TCM Security, Inc.
 
@@ -26,6 +28,8 @@ Egresado de la carrera Ingeniería en Sistemas Computacionales, me gusta leer mu
 🔵 Certified Ethical Hacker (CEH)
 
 🔵 Security+
+
+🔵 ISTQB
 
 ## ¿Qué encontrarás en mi perfil?
 
