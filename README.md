@@ -10,7 +10,8 @@ Soy un joven apasionado por la seguridad informática. También le hago al QA te
 Ingeniero en Sistemas Computacionales, me gusta leer mucho y estar aprendiendo cosas nuevas.
 
 - 🔭 Actualmente estoy llevando el path de certificación para analista de seguridad de apis (CASA) en **APISec University**.
-- 💬 Pregúntame sobre **Ciberseguridad y Hacking**.
+- 💻 Estudio continuamente los laboratorios de hacking web en **PortSwigger Academy**.
+- ✏️ Escribo sobre hacking y seguridad informática en mi blog [Desert-Bunker](https://desert-bunker.net/).
 - 📫 Como contactarme: Por LinkedIn [@Aldo Moreno](https://www.linkedin.com/in/jose-aldo-moreno-leon/) o por correo aldo.moreno.leon@protonmail.com
 
 [//]: <> (Así se ponen los comentarios)
