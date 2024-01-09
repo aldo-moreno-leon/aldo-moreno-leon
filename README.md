@@ -18,7 +18,7 @@ Ingeniero en Sistemas Computacionales, me gusta leer mucho y estar aprendiendo c
 
 ## Me estoy preparando para obtener la certificación CASA, con el siguiente curso formativo:
 
-🔴 OWASP API Security Top 10 and Beyond!
+🔴 API Security for PCI Compliance.
 
 ## Posibles certificaciones para llevar a cabo más adelante:
 
