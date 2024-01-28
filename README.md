@@ -18,7 +18,7 @@ Ingeniero en Sistemas Computacionales, me gusta leer mucho y estar aprendiendo c
 
 ## Me estoy preparando para obtener la certificación CASA, con el siguiente curso formativo:
 
-🔴 API Security for PCI Compliance.
+🔴 API Penetration Testing
 
 ## Posibles certificaciones para llevar a cabo más adelante:
 
@@ -31,7 +31,7 @@ Ingeniero en Sistemas Computacionales, me gusta leer mucho y estar aprendiendo c
 
 ## ¿Qué encontrarás en mi perfil?
 
-Podrás encontrar algunas tools, proyectos de mi universidad y wordlists para descubrimiento de archivos y directorios en sitios webs.
+Podrás encontrar algunos scripts, proyectos de mi universidad y wordlists para descubrimiento de archivos y directorios en sitios webs.
 
 <img src="https://github-readme-stats.vercel.app/api?username=aldo-moreno-leon&show_icons=true&theme=chartreuse-dark" alt="Stats">
 
