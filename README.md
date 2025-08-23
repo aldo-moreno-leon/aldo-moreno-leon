@@ -5,7 +5,7 @@
 
 ## ¿Quién soy? 🤔
 
-Soy un joven apasionado por la seguridad informática. También le hago al QA testing en el cual me desempeño de manera profesional actualmente, aunque estoy en busca de una nueva oportunidad en el campo laboral de ciberseguridad o pentesting.
+Soy un joven apasionado por la seguridad informática. También le hago al QA testing en el cual me desempeño de manera profesional actualmente.
 
 Ingeniero en Sistemas Computacionales, me gusta leer mucho y estar aprendiendo cosas nuevas.
 
