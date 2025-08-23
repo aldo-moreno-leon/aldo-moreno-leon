@@ -1,7 +1,7 @@
-### <h1>Hola, mi nombre es Aldo - aka [C0wb0y][website] 👋</h1>
+### <h1>Hola, mi nombre es Aldo👋</h1>
 
 [![Website](https://img.shields.io/website?label=aldomoreno.net&style=for-the-badge&url=https://aldomoreno.net/)](https://aldomoreno.net/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_C0wb0y_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F_C0wb0y_&screen_name=_C0wb0y_)
+[![X Follow](https://img.shields.io/x/follow/aldo_m_leon?color=1DA1F2&logo=x&style=for-the-badge)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faldo_m_leon&screen_name=aldo_m_leon)
 
 ## ¿Quién soy? 🤔
 
