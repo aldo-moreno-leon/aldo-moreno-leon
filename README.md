@@ -9,7 +9,7 @@ Soy un joven apasionado por la seguridad informática. También le hago al QA te
 
 Ingeniero en Sistemas Computacionales, me gusta leer mucho y estar aprendiendo cosas nuevas.
 
-- 🔭 Actualmente me estoy preparando para el exámen de certificación de ISTQB.
+- 🔭 Actualmente estoy certificado en ISTQB Certified Tester Foundation Level.
 - 💻 Estudio continuamente las técnicas que utilizan los bug bounty hunters.
 - ✏️ Escribo sobre hacking y seguridad informática en mi blog.
 - 📫 Como contactarme: Por LinkedIn [@Aldo Moreno](https://www.linkedin.com/in/jose-aldo-moreno-leon/) o por correo aldo.moreno.leon@protonmail.com
